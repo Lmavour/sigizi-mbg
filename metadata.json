@@ -1,0 +1,6 @@
+{
+  "name": "SiGizi - Ulasan MBG Mobile",
+  "description": "Platform mobile-first ulasan Makan Bergizi Gratis (MBG) untuk pelajar sekolah: peta SPPG satelit Esri, feed ulasan Instagram/Snapchat, dan kamera review makanan bergizi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
